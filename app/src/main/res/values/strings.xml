@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My IMC</string>
+    <string name="calcule_meu_imc">Calcule meu imc</string>
+    <string name="textview">Entre com seu peso e altura para descobrir seu IMC</string>
+    <string name="imagem">imagem</string>
+    <string name="altura_em_cm_ex_175">Altura em CM ex: 175</string>
+    <string name="peso_em_kg_ex_75_6">Peso em KG ex: 75.6</string>
+    <string name="imc">IMC</string>
+
+</resources>
