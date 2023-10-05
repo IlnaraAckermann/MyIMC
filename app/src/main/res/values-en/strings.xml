@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My BMI</string>
+    <string name="altura_em_cm_ex_175">Height in cm</string>
+    <string name="peso_em_kg_ex_75_6">Weight in kg</string>
+    <string name="calcule_meu_imc">Calculate my BMI</string>
+    <string name="imc">BMI</string>
+    <string name="imagem">Image of question mark icons</string>
+    <string name="textview">Enter your weight and height to find out your BMI</string>
+</resources>
